@@ -38,7 +38,7 @@ export default function Footer() {
       </Box>
 
       <Box textAlign="center" mt={4} fontSize="14px">
-        &copy; {new Date().getFullYear()} OLX Group. All rights reserved.
+        &copy; {new Date().getFullYear()} Made with ❤️ by @Mooddex
       </Box>
     </Box>
   );
