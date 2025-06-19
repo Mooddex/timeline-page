@@ -1,0 +1,21 @@
+# Timeline Page
+
+This is a responsive timeline page built using **React**, **TypeScript**, **Vite**, and **Material UI (MUI)**.  
+It displays a sequence of events in a modern, clean layout — perfect for showing history, experience, or progress.
+
+## 🚀 Live Demo
+
+You can view a live version here:  
+👉 [https://ephemeral-fudge-b0ebb1.netlify.app/]
+
+> *(If the live link is unrelated, feel free to remove or update it.)*
+
+## 🛠 Tech Stack
+
+- ⚛️ React
+- 🟦 TypeScript
+- ⚡ Vite
+- 🎨 Material UI
+- 🖼️ CSS / Tailwind (optional if added)
+
+Made with ❤️ by @Mooddex
