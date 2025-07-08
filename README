@@ -1,12 +1,6 @@
-Here’s your updated `README.md` for the **Timeline Page** project, with a more polished, informative, and GitHub-ready structure:
-
-```md
 # 🕒 Timeline Page
 
 A responsive, elegant **timeline component** built with **React**, **TypeScript**, and **Material UI**. Ideal for portfolios, experience pages, project histories, and educational timelines.
-
-![Timeline Screenshot](https://your-image-url-if-any.com)
-
 ---
 
 ## 🚀 Live Demo
